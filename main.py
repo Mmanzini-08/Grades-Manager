@@ -57,8 +57,7 @@ def main():
               "\t1) List your votes (l)\n"
               "\t2) Insert new votes (i)\n"
               "\t3) Erase a vote (e)\n"
-              "\t4) Erase all vote for the subject (a)\n"
-              "\t5) type q to quit  (q)\n"
+              "\t4) type q to quit  (q)\n"
               "Your choice: ", end = '')
         ans = input()
 
