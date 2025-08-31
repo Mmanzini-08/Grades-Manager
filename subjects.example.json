@@ -1,0 +1,16 @@
+{
+    "subjects": {
+        "math": {
+            "vote 1": "9.7",
+            "vote 2": "9.0",
+            "vote 3": "7.75",
+            "vote 4": "9.98"
+        },
+        "science": {
+            "vote 1": "8.7",
+            "vote 2": "5.67",
+            "vote 3": "9.8"
+        },
+        "physics": {}
+    }
+}
